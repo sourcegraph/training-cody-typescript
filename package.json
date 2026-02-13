@@ -14,7 +14,7 @@
     "ts-jest": "^29.3.0"
   },
   "peerDependencies": {
-    "typescript": "^5"
+    "typescript": "^5.9.3"
   },
   "dependencies": {
     "@types/better-sqlite3": "^7.6.12",
